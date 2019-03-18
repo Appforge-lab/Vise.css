@@ -16,17 +16,17 @@ Vise is a simple yet powerful lightweight vanilla CSS framework forged with the 
 
 # DOC INDEX
 
-- [Approach:](https://github.com/Appforge-lab/css-vise/blob/master/doc/naming_convention.md)
+1. [Approach:](https://github.com/Appforge-lab/css-vise/blob/master/doc/naming_convention.md)
   An introduction to Vise's philosophy.
 
-- [Naming convention:](https://github.com/Appforge-lab/css-vise/blob/master/doc/naming_convention.md)
+2. [Naming convention:](https://github.com/Appforge-lab/css-vise/blob/master/doc/naming_convention.md)
   All what is needed to learn about Vise's naming convention.
   
-- [Elements:](https://github.com/Appforge-lab/css-vise/blob/master/doc/elements.md)
+3. [Elements:](https://github.com/Appforge-lab/css-vise/blob/master/doc/elements.md)
   Typography, inputs, table, lists, buttons, etc.
 
-- [General classes:](https://github.com/Appforge-lab/css-vise/blob/master/doc/elements.md)
+4. [General classes:](https://github.com/Appforge-lab/css-vise/blob/master/doc/elements.md)
   Learn about **color**, **style**, **padding**, **width**/**height**, **align**, **adapt**, **reset**
 
-- [Grid:](https://github.com/Appforge-lab/css-vise/blob/master/doc/grid.md)
+5. [Grid:](https://github.com/Appforge-lab/css-vise/blob/master/doc/grid.md)
   Learn about **row**/**col**/**box**/**void**
