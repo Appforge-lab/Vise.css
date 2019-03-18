@@ -23,6 +23,7 @@ Vise is a simple yet powerful lightweight vanilla CSS framework forged with the 
   (Typography, inputs, table, lists, etc)
 
 - [General classes](https://github.com/Appforge-lab/css-vise/blob/master/doc/elements.md)
-  Vise's general classes doc
+  
 
 - [Grid](https://github.com/Appforge-lab/css-vise/blob/master/doc/grid.md)
+  Learn about **row**/**col**/**box**
