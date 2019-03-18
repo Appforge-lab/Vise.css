@@ -14,7 +14,7 @@ Vise is a simple yet powerful lightweight vanilla CSS framework forged with the 
 
   Vise is intended to be as minimal as possible while offering the basic features to build a consistent user experience. With around 30kb of size, Vise is one of the most lightweight frameworks. Based an a simple naming convention and powerful grid system, it forms a reliable starting point for any project.
 
-# DOC
+# DOC INDEX
 
 - [Naming convention:](https://github.com/Appforge-lab/css-vise/blob/master/doc/naming_convention.md)
   All what is needed to learn about Vise's naming convention.
