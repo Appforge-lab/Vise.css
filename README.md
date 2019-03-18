@@ -1,2 +1,2 @@
-<img src="http://appforgelab.com/banner2.svg"/>
+<img src="http://appforgelab.com/banner3.svg"/>
 
