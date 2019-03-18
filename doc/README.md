@@ -26,4 +26,4 @@ Vise is a simple yet powerful lightweight vanilla CSS framework forged with the 
   
 
 - [Grid](https://github.com/Appforge-lab/css-vise/blob/master/doc/grid.md)
-  Learn about **row**/**col**/**box**
+  Learn about **row**/**col**/**box**/**void**
