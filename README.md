@@ -1,3 +1,3 @@
-<img style="width:50%" src="http://appforgelab.com/vise.svg"/>
+<img src="http://appforgelab.com/vise.png"/>
 # VISE
 A simple yet powerful lightweight vanilla CSS framework
