@@ -1,6 +1,7 @@
-# DOC INDEX
+# INDEX
 
-1. [Approach:](https://github.com/Appforge-lab/css-vise/blob/master/doc/naming_convention.md)
+
+1. [Approach:](https://github.com/Appforge-lab/css-vise/blob/master/doc/approach.md)
   An introduction to Vise's philosophy.
 
 2. [Naming convention:](https://github.com/Appforge-lab/css-vise/blob/master/doc/naming_convention.md)
