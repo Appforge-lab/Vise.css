@@ -16,6 +16,9 @@ Vise is a simple yet powerful lightweight vanilla CSS framework forged with the 
 
 # DOC INDEX
 
+- [Approach:](https://github.com/Appforge-lab/css-vise/blob/master/doc/naming_convention.md)
+  An introduction to Vise's philosophy.
+
 - [Naming convention:](https://github.com/Appforge-lab/css-vise/blob/master/doc/naming_convention.md)
   All what is needed to learn about Vise's naming convention.
   
