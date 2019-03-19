@@ -43,6 +43,8 @@ Vise is not the usual framework, it's not based only on making CSS styling a fas
 
 ## Demos
 
+- Vise
 - Typography, lists, links and tables.
 - Inputs
 - Buttons
+- Grid
