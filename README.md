@@ -14,27 +14,31 @@ There is dozens of CSS frameworks available but why Vise ?
 
 ## Get Started
 
-There are a couple ways to obtain Vise:
+There are a couple ways to get Vise:
 
-- [Download the zip file](https://github.com/dhg/Skeleton/releases/download/2.0.4/Skeleton-2.0.4.zip)
+- [Download the zip](https://github.com/dhg/Skeleton/releases/download/2.0.4/Skeleton-2.0.4.zip)
 - Clone the repository: `git clone https://github.com/dhg/Skeleton.git` 
+
+To get started properly have a look on the [docs]().
 
 ## Approach
 
-Vise is forged with the following notions in mind:
+Vise is not the usual framework, it's not based only on making CSS styling a faster process but also forged with the some notions in mind:
 
 - **Encaplsulation**
 
-  Vise doesn't get influenced by other loaded frameworks on the same HTML document. Thus, it can be used alongside any other framework (Bootstrap, Foundation, Bluma, etc). Any HTML element enclosed within Vise's opening and closing tags looses any previous alternation and gets Vise's defaults. Any Vise class is only usable within Vise's scope and affects only child elements of Vise, leaving outer elements untouched.
+  Vise is self-enclosed, it doesn't get affected by previously loaded frameworks on the same HTML document. Thus it can be used alongside any other framework (Bootstrap, Foundation, Bluma, etc).
+
+  Any element enclosed within Vise's opening and closing tags drops any previous alternation and gets Vise's defaults.
+
+  Any Vise class is only usable within Vise's enclosure and affects only it's child elements, leaving outer elements untouched.
 
 - **Self-reliance**
 
-  Packed with the basic features, Vise is functional out-of-the-box. With styled HTML elements, helper classes and a powerful grid system, Vise is a complete framework that can build simple and complex web content.
+  Packed with the basic features, Vise is functional out-of-the-box. With styled HTML elements, helper classes and a smart grid system, Vise is a complete framework that can build simple and complex web contents.
 
 - **Minimalism**
 
-  Vise is intended to be as minimal as possible while offering the basic features to build a consistent user experience. With around 30kb of size, Vise is one of the most lightweight frameworks. Based an a simple naming convention and powerful grid system, it forms a reliable starting point for any project.
-
-## Examples
+  Vise is meant to be minimal while offering the basic features to build a consistent user experience. With around 30kb of size, Vise is one of the most lightweight frameworks. Based on a simple naming convention and a powerful grid system, it forms a reliable starting point for any project.
 
 
