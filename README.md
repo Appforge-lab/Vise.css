@@ -14,7 +14,7 @@ There is dozens of CSS frameworks available but why Vise ?
 
 ## APPROACH
 
-Vise is a simple yet powerful lightweight vanilla CSS framework forged with the following notions in mind:
+Vise is forged with the following notions in mind:
 
 - **Encaplsulation**
 
