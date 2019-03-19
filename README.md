@@ -10,7 +10,7 @@ There is dozens of CSS frameworks available but why Vise ?
 
 - You may want to use **more than one** framework on the same HTML document.
 
-- You may want a **smarter**, **easier** to learn and **sturdy** minimal framework.
+- You may want a **smarter** and **easier** to learn minimal framework.
 
 
 
