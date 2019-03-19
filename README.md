@@ -2,7 +2,7 @@
 
 A lightweight, minimalist and mature pure CSS framework that can be used alongside any other framework. Check this simple demo website for a quick showcase.
 
-### Why Vise
+## Why Vise
 
 There is dozens of CSS frameworks available but why Vise ?
 
@@ -11,6 +11,8 @@ There is dozens of CSS frameworks available but why Vise ?
 - You may want to use more than one framework on the same HTML document.
 
 - You may want a smarter, easier to learn and sturdy minimal framework.
+
+  
 
 
 
