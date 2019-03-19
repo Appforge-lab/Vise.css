@@ -1,8 +1,6 @@
 <img src="http://appforgelab.com/banner3.svg"/>
 
-A lightweight, minimalist and mature pure CSS framework that can be used alongside any other framework.
-
-Check this simple demonstration website, and consider it as an introduction to the capabilities that Vise is able to perform. 
+A lightweight, minimalist and mature pure CSS framework that can be used alongside any other framework. Check this simple demo website for a quick showcase.
 
 ### Why CSS-Vise
 
