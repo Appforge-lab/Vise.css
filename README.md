@@ -1,4 +1,4 @@
-<img src="http://appforgelab.com/banner3.svg"/>
+<img src="http://appforgelab.com/banner4.svg"/>
 
 A lightweight, minimalist and mature pure CSS framework that can be used alongside any other framework. Check [this demo website]() for a quick showcase.
 
