@@ -5,3 +5,6 @@ A lightweight, minimalist and mature pure CSS framework that can be used alongsi
 ### Why CSS-Vise
 
 You may not need a heavy framework to build a great user experience. 
+
+You may want to use more than one framework on the same HTML document.
+
