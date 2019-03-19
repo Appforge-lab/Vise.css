@@ -35,4 +35,6 @@ Vise is forged with the following notions in mind:
 
   Vise is intended to be as minimal as possible while offering the basic features to build a consistent user experience. With around 30kb of size, Vise is one of the most lightweight frameworks. Based an a simple naming convention and powerful grid system, it forms a reliable starting point for any project.
 
+## Examples
+
 
