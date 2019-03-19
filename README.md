@@ -12,7 +12,7 @@ There is dozens of CSS frameworks available but why Vise ?
 
 - You may want a **smarter** and **easier** to learn minimal framework.
 
-## APPROACH
+## Approach
 
 Vise is forged with the following notions in mind:
 
