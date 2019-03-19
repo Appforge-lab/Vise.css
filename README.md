@@ -41,4 +41,8 @@ Vise is not the usual framework, it's not based only on making CSS styling a fas
 
   Vise is meant to be minimal while offering the basic features to build a consistent user experience. With around 30kb of size, Vise is one of the most lightweight frameworks. Based on a simple naming convention and a powerful grid system, it forms a reliable starting point for any project.
 
+## Demos
 
+- Typography, lists, links and tables.
+- Inputs
+- Buttons
