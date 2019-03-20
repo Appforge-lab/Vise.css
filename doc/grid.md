@@ -2,7 +2,7 @@
 
 Based on flexbox, Forge's grid is designed to build flexible layouts and mobile-first pages. It proposes a row/column structure to horizontally and vertically arrange enclosed elements while offering up to *13* predefined child element sizes. 
 
-The grid system consists of rows and columns with each of them being an independent grid meant to act containers for elements we intend to arrange.
+The grid system consists of rows and columns with each of them being an independent grid meant to act as containers for elements we intend to arrange.
 
 ```html
 <div class="forge">
