@@ -12,7 +12,7 @@ There is dozens of CSS frameworks available but why Vise ?
 
 - You may want a **smarter** and **easier** to learn minimal framework.
 
-- You need a library that is supported by **98%** of browser.
+- You need a library that is supported by **98%** of browsers.
 
 ## Get Started
 
