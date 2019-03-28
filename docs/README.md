@@ -3,7 +3,7 @@
 1. [Vise:](https://github.com/Appforge-lab/css-vise/blob/master/doc/naming_convention.md)
   All what is needed to learn about Vise's naming convention.
 
-2. [Naming convention:](https://github.com/Appforge-lab/css-vise/blob/master/doc/naming_convention.md)
+2. [Naming convention:](https://github.com/Appforge-lab/css-vise/blob/master/docs/naming_convention.md)
   All what is needed to learn about Vise's naming convention.
   
 3. [Elements:](https://github.com/Appforge-lab/css-vise/blob/master/doc/elements.md)
