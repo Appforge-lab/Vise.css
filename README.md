@@ -18,7 +18,7 @@ There is dozens of CSS frameworks available but why Vise ?
 
 There are a couple ways to get Vise:
 
-- [Download the zip](https://github.com/Appforge-lab/css-vise/releases/download/Beta-0.1/css-vise.zip)
+- [Download beta-0.1 zip](https://github.com/Appforge-lab/css-vise/releases/download/Beta-0.1/css-vise.zip)
 - Clone the repository: `git clone https://github.com/Appforge-lab/css-vise.git` 
 
 To get started properly have a look on the [docs](https://github.com/Appforge-lab/css-vise/tree/master/docs).
