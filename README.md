@@ -55,4 +55,4 @@ For more check the [docs]().
 
 ## License
 
-Designed by **appforge** Licensed under the [MIT License](https://github.com/milligram/milligram/blob/master/license).
+Designed by **appforge** Licensed under the [MIT License](https://github.com/Appforge-lab/css-vise/blob/master/License.
