@@ -19,7 +19,7 @@ There is dozens of CSS frameworks available but why Vise ?
 There are a couple ways to get Vise:
 
 - [Download the zip](https://github.com/dhg/Skeleton/releases/download/2.0.4/Skeleton-2.0.4.zip)
-- Clone the repository: `git clone https://github.com/dhg/Skeleton.git` 
+- Clone the repository: `git clone https://github.com/Appforge-lab/css-vise.git` 
 
 To get started properly have a look on the [docs]().
 
