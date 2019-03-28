@@ -21,7 +21,7 @@ There are a couple ways to get Vise:
 - [Download the zip](https://github.com/Appforge-lab/css-vise/releases/download/Beta-0.1/css-vise.zip)
 - Clone the repository: `git clone https://github.com/Appforge-lab/css-vise.git` 
 
-To get started properly have a look on the [docs]().
+To get started properly have a look on the [docs](https://github.com/Appforge-lab/css-vise/tree/master/docs).
 
 ## Approach
 
@@ -51,7 +51,7 @@ Vise is not the usual framework, it's not based only on making CSS styling a fas
 - Buttons
 - Grid
 
-For more check the [docs]().
+For more check the [docs](https://github.com/Appforge-lab/css-vise/tree/master/docs).
 
 ## License
 
