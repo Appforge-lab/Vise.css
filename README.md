@@ -55,4 +55,4 @@ For more check the [docs](https://github.com/Appforge-lab/css-vise/tree/master/d
 
 ## License
 
-Designed by **appforge** Licensed under the [MIT License](https://github.com/Appforge-lab/css-vise/blob/master/License.
+Designed by **appforge** Licensed under the [MIT License](https://github.com/Appforge-lab/css-vise/blob/master/License).
