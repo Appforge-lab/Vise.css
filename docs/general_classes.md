@@ -11,8 +11,8 @@ Used to fill an element's background with a color from the palette below. For te
 ```html
 <div class="vise">
   <div class="fill:blue color:aqua">Text</div>
-	<div class="fill:red color:white">Text</div>
-	<div class="fill:green color:black">Text</div>
+  <div class="fill:red color:white">Text</div>
+  <div class="fill:green color:black">Text</div>
 </div>
 ```
 
