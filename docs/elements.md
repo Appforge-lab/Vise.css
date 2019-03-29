@@ -26,7 +26,7 @@ Elements enclosed within Vise gets styled according to Vise's style-line. It is 
 As an essential part of the user experience and by default, any input of type *button* within Vise's enclosure gets the *default* button style demonstrated below. To express common web events, 10 more styles are provided and can be applied to **button** class. Also, a special **hover** class is available with the purpose of adapting button's visibility on low/high lightness backgrounds.
 
 ```html
-<div class="">  
+<div class="vise">  
     <input type="button" value="button">
 </div>  
 ```
@@ -38,7 +38,7 @@ As an essential part of the user experience and by default, any input of type *b
 Vise comes packed with the following button styles: light, dark, *basic*, *prime*, *aux*, *win*, *pass*, *warn*, *info*, *alert*. For an inverted style it is possible to use the followings: light-i, dark-i, *basic*-i, *prime*-i, *aux-i*, *win-*i, *pass-i*, *warn-i*, *info*-i, *alert*-i.
 
 ```html
-<div class="Vise">
+<div class="vise">
     <input type="button" class="button:dark">
     <input type="button" class="button:light">
     <input type="button" class="button:basic">
@@ -67,7 +67,7 @@ Vise comes packed with the following button styles: light, dark, *basic*, *prime
 In certain scenarios, when hovering a button placed on lighter/darker background, the latter may become difficult to notice and for better visibility we provided a **hover** class that changes the hover color to white/black making hover effect more outstanding. **Hover** accepts 2 values: *light* and *dark*.
 
 ```html
-<div class="Vise">  
+<div class="vise">  
     <input type="button" value="button" class="button:prime"> 
     <input type="button" value="button" class="button:prime hover:light">
 </div>
@@ -82,7 +82,7 @@ In certain scenarios, when hovering a button placed on lighter/darker background
 Differently to other inputs, **radio** and **checkbox** are not styled on their own, instead they get styled when wrapped inside **box-radio**/**box-checkbox** containers which are variants of **box** (covered below).
 
 ```html
-<div class="Vise">
+<div class="vise">
     <div class="box-checkbox">
         <input type="checkbox">
         <label></label>
