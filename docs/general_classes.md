@@ -25,7 +25,7 @@ Vise is served with a modern looking color palette from [clrs.cc](https://clrs.c
 <img src="http://appforgelab.com/vise/color-palette.svg"/>
 
 
-
+d
 ## STYLE
 
 Used to style an element, **style** applies a background color and a text color from the style palette below to an element. It accepts the following values: *basic*, *prime*, *aux*, *win*, *pass*, *warn*, *info*, *alert* .
