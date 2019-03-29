@@ -2,6 +2,7 @@
 
 Elements enclosed within Vise gets styled according to Vise's style-line. It is planned to cover most of the HTML elements in future releases, however for now only the following elements are styled: **h1** to **h6**, **b**, **strong**, **small**, **table**, **a**, **select**, **textarea**, **lists**, **radio**/**checkbox** and **inputs** of type: *text*, *email*, *number*, *search*, *tel*, *url*, *password*, *submit*, *reset*, *button*.
 
+
 - Typography: **h1** to **h6**, **b**, **strong**, **small**, **a**
 
   [Live demo](http://cssdeck.com/labs/8k0gzi7f)
