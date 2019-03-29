@@ -1,6 +1,6 @@
 # GENERAL CLASSES
 
-Vise comes with built-in general purpose classes intended to make things faster. They can be used anywhere within Vise's scope and they are: **fill**, **color**, **style**, **opacity**, **radius**, **shadow**, **outline**, **padding**, **width/height**, **align**, **adapt**, **reset**.
+Vise comes with built-in general purpose classes intended to make things faster. They can be used anywhere within Vise's scope and they are: **fill**, **color**, **style**, **opacity**, **radius**, **shadow**/**outline**, **padding**, **width/height**, **align**, **adapt**, **reset**.
 
 
 
