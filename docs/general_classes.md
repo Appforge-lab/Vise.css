@@ -31,9 +31,9 @@ Used to style an element, **style** applies a background color and a text color 
 
 ```html
 <div class="vise">
-	<div class="style:prime">Prime</div>
-	<div class="style:warn">Warn</div>
-	<div class="style:info">Info</div>
+  <div class="style:prime">Prime</div>
+  <div class="style:warn">Warn</div>
+  <div class="style:info">Info</div>
 </div>
 ```
 
@@ -53,8 +53,8 @@ Used to set an element's opacity, it accepts up to 13 values  [*1-12*, *max*]
 
 ```html
 <div class="vise">
-	<div></div>
-	<div class="opacity:5"></div>
+  <div></div>
+  <div class="opacity:5"></div>
 </div>
 ```
 
@@ -68,8 +68,8 @@ Used to set an element's corners radius, it accepts up to 13 values  [*1-12*, *m
 
 ```html
 <div class="vise">
-	<div></div>
-	<div class="radius:5"></div>
+  <div></div>
+  <div class="radius:5"></div>
 </div>
 ```
 
@@ -83,8 +83,8 @@ Used to set an element's corners radius, it accepts up to 13 values  [*1-12*, *m
 
 ```html
 <div class="vise">
-	<div class="outline">Text</div>
-	<div class="shadow">Text</div>
+  <div class="outline">Text</div>
+  <div class="shadow">Text</div>
 </div>
 ```
 
@@ -98,9 +98,9 @@ Used to generate space around an element's content, **padding** accepts up to *1
 
 ```html
 <div class="vise">
-	<div class="padding">Text</div>
-	<div class="padding:5">Text</div>
-	<div class="padding:max">Text</div>
+  <div class="padding">Text</div>
+  <div class="padding:5">Text</div>
+  <div class="padding:max">Text</div>
 </div>
 ```
 
@@ -112,9 +112,9 @@ Used to generate space around an element's content, **padding** accepts up to *1
 
   ```html
   <div class="vise">
-  	<div class="padding-sides">Text</div>
-  	<div class="padding-sides:5">Text</div>
-  	<div class="padding-sides:max">Text</div>
+    <div class="padding-sides">Text</div>
+    <div class="padding-sides:5">Text</div>
+    <div class="padding-sides:max">Text</div>
   </div>
   ```
 
@@ -124,9 +124,9 @@ Used to generate space around an element's content, **padding** accepts up to *1
 
   ```html
   <div class="vise">
-  	<div class="padding-ends">Text</div>
-  	<div class="padding-ends:5">Text</div>
-  	<div class="padding-ends:max">Text</div>
+    <div class="padding-ends">Text</div>
+    <div class="padding-ends:5">Text</div>
+    <div class="padding-ends:max">Text</div>
   </div>
   ```
 
@@ -141,10 +141,10 @@ Used to set an element's width/height and similarly to **padding**, they both ac
 
 ```html
 <div class="vise">
-	<div class="width:5">Text</div>	
-	<div class="width:max">Text</div>
-	<div class="height:5">Text</div>
-	<div class="height:max">Text</div>
+  <div class="width:5">Text</div>	
+  <div class="width:max">Text</div>
+  <div class="height:5">Text</div>
+  <div class="height:max">Text</div>
 </div>
 ```
 
@@ -154,10 +154,10 @@ Used to set an element's width/height and similarly to **padding**, they both ac
 
   ```html
   <div class="vise">
-  	<div class="width:64">Text</div>
-  	<div class="width:128">Text</div>
-  	<div class="height:64">Text</div>
-  	<div class="height:128">Text</div>
+    <div class="width:64">Text</div>
+    <div class="width:128">Text</div>
+    <div class="height:64">Text</div>
+    <div class="height:128">Text</div>
   </div>
   ```
 
@@ -167,10 +167,10 @@ Used to set an element's width/height and similarly to **padding**, they both ac
 
   ```html
   <div class="vise">
-  	<div class="width:fifth">Text</div>
-  	<div class="width:third">Text</div>
-  	<div class="height:fifth">Text</div>
-  	<div class="height:third">Text</div>
+    <div class="width:fifth">Text</div>
+    <div class="width:third">Text</div>
+    <div class="height:fifth">Text</div>
+    <div class="height:third">Text</div>
   </div>
   ```
 
@@ -180,7 +180,7 @@ Used to set an element's width/height and similarly to **padding**, they both ac
 
 ```html
 <div class="vise">
-	<div class="width-max:1280">Text</div>
+  <div class="width-max:1280">Text</div>
 </div>
 ```
 
@@ -194,7 +194,7 @@ Used to align elements within a container, **align** is specific to **row**/**co
 
 ```html
 <div class="vise">
-	<div class="align-text:center">Text</div>
+  <div class="align-text:center">Text</div>
 </div>
 ```
 
@@ -208,9 +208,9 @@ Used to align elements within a container, **align** is specific to **row**/**co
 
 ```html
 <div class="vise">
-    <div class="adapt-small:hide"></div>
-    <div class="adapt-medium:hide"></div>
-    <input type="text" name="" class="width:third adapt-medium:stretch">
+  <div class="adapt-small:hide"></div>
+  <div class="adapt-medium:hide"></div>
+  <input type="text" name="" class="width:third adapt-medium:stretch">
 </div>
 ```
 
@@ -230,8 +230,8 @@ Shows or hides an element.
 
 ```html
 <div class="vise">
-	<div class="fill:blue hide">Text</div>
-	<div class="fill:blue show">Text</div>
+  <div class="fill:blue hide">Text</div>
+  <div class="fill:blue show">Text</div>
 </div>
 ```
 
@@ -245,7 +245,7 @@ Removes any styling applied to an element, **reset** changes elements attributes
 
 ```html
 <div class="vise">	
-    <div class="reset"></div>
+  <div class="reset"></div>
 </div>	
 ```
 
