@@ -21,6 +21,7 @@ Elements enclosed within Vise gets styled according to Vise's style-line. It is 
 
 
 
+
 ## BUTTON
 
 As an essential part of the user experience and by default, any input of type *button* within Vise's enclosure gets the *default* button style demonstrated below. To express common web events, 10 more styles are provided and can be applied to **button** class. Also, a special **hover** class is available with the purpose of adapting button's visibility on low/high lightness backgrounds.
