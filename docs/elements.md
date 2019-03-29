@@ -77,7 +77,7 @@ In certain scenarios, when hovering a button placed on lighter/darker background
 
 
 
-## RADIO / CHECKBOX
+## RADIO & CHECKBOX
 
 Differently to other inputs, **radio** and **checkbox** are not styled on their own, instead they get styled when wrapped inside **box-radio**/**box-checkbox** containers which are variants of **box** (covered below).
 
