@@ -9,7 +9,7 @@
 3. [Elements:](https://github.com/Appforge-lab/css-vise/blob/master/docs/elements.md)
   Typography, inputs, table, lists, buttons, etc.
 
-4. [General classes:](https://github.com/Appforge-lab/css-vise/blob/master/doc/elements.md)
+4. [General classes:](https://github.com/Appforge-lab/css-vise/blob/master/docs/general_classes.md)
   Learn about **color**, **style**, **padding**, **width**/**height**, **align**, **adapt**, **reset**
 
 5. [Grid:](https://github.com/Appforge-lab/css-vise/blob/master/doc/grid.md)
