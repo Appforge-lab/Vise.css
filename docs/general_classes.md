@@ -54,7 +54,7 @@ Used to set an element's opacity, it accepts up to 13 values  [*1-12*, *max*]
 
 ```html
 <div class="vise">
-    <div></div>
+	<div></div>
 	<div class="opacity:5"></div>
 </div>
 ```
@@ -69,7 +69,7 @@ Used to set an element's corners radius, it accepts up to 13 values  [*1-12*, *m
 
 ```html
 <div class="vise">
-    <div></div>
+	<div></div>
 	<div class="radius:5"></div>
 </div>
 ```
@@ -84,7 +84,7 @@ Used to set an element's corners radius, it accepts up to 13 values  [*1-12*, *m
 
 ```html
 <div class="vise">
-    <div class="outline">Text</div>
+	<div class="outline">Text</div>
 	<div class="shadow">Text</div>
 </div>
 ```
