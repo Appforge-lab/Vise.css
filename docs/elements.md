@@ -38,7 +38,7 @@ Vise comes packed with the following button styles: light, dark, *basic*, *prime
 
 ```html
 <div class="Vise">
-	<input type="button" class="button:dark">
+    <input type="button" class="button:dark">
     <input type="button" class="button:light">
     <input type="button" class="button:basic">
     <input type="button" class="button:prime">
@@ -47,7 +47,7 @@ Vise comes packed with the following button styles: light, dark, *basic*, *prime
     <input type="button" class="button:pass">
     <input type="button" class="button:warn">
     <input type="button" class="button:info">
-	<input type="button" class="button:dark-i">
+    <input type="button" class="button:dark-i">
     <input type="button" class="button:light-i">
     <input type="button" class="button:basic-i">
     <input type="button" class="button:prime-i">
@@ -67,10 +67,8 @@ In certain scenarios, when hovering a button placed on lighter/darker background
 
 ```html
 <div class="Vise">  
-    <div class="">
     <input type="button" value="button" class="button:prime"> 
-    <input type="button" value="button" class="button:prime hover:light"> 
-    </div>
+    <input type="button" value="button" class="button:prime hover:light">
 </div>
 ```
 
