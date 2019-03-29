@@ -4,7 +4,7 @@ Vise comes with built-in general purpose classes intended to make things faster.
 
 
 
-## FILL / COLOR
+## FILL & COLOR
 
 Used to fill an element's background with a color from the palette below. For text coloring, **color** can be used.
 
@@ -77,7 +77,7 @@ Used to set an element's corners radius, it accepts up to 13 values  [*1-12*, *m
 
 
 
-## SHADOW / OUTLINE
+## SHADOW & OUTLINE
 
 **Shadow** is used to create a light shadow for an element. **Outline** is used to apply a contouring outline on an element. Both **Shadow** & **Outline** don't accept values for the current release.
 
@@ -135,7 +135,7 @@ Used to generate space around an element's content, **padding** accepts up to *1
 
 
 
-## WIDTH / HEIGHT
+## WIDTH & HEIGHT
 
 Used to set an element's width/height and similarly to **padding**, they both accept up to *14* values [*1-12*, *min*/*max*] although distinctively, they adopt <u>fixed sizes</u> and <u>common percentages</u>. 
 
@@ -224,7 +224,7 @@ Used to align elements within a container, **align** is specific to **row**/**co
 
 
 
-## SHOW / HIDE
+## SHOW & HIDE
 
 Shows or hides an element.
 
