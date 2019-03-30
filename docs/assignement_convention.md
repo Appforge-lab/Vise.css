@@ -4,8 +4,8 @@ Vise uses a unique class assignement convention with less hyphens, dashes and a 
 
 ```html
 <div class="vise">	
-    <div class="color:blue padding:2">
-    <div class="color:black color-text:orange padding-sides:2">
+    <div class="fill:blue padding:2">
+    <div class="fill:black color-text:orange padding-sides:2">
 </div>	
 ```
 
