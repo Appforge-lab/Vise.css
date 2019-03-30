@@ -46,9 +46,9 @@ Vise is not the usual framework, it's not based only on making CSS styling a fas
 ## Demos
 - [Vise](http://cssdeck.com/labs/kmeopejy)
 - [Typography](http://cssdeck.com/labs/8k0gzi7f), [lists](http://cssdeck.com/labs/nozhcahn) and [table](http://cssdeck.com/labs/actgq3my).
-- Inputs
-- Buttons
-- Grid
+- [Inputs](http://cssdeck.com/labs/9rggntje)
+- [Buttons](http://cssdeck.com/labs/obllgv3i)
+- [Grid](http://cssdeck.com/labs/salyee3a)
 
 For more check the [docs](https://github.com/Appforge-lab/css-vise/tree/master/docs).
 
