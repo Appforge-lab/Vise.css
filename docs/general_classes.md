@@ -1,10 +1,10 @@
-# GENERAL CLASSES
+# General Purpose Classes
 
 Vise comes with built-in general purpose classes intended to make things faster. They can be used anywhere within Vise's scope and they are: **fill**, **color**, **style**, **opacity**, **radius**, **shadow/outline**, **padding**, **width/height**, **align**, **adapt**, **reset**.
 
 
 
-## FILL & COLOR
+## Fill & Color
 
 Used to fill an element's background with a color from the palette below. For text coloring, **color** can be used.
 
@@ -18,14 +18,14 @@ Used to fill an element's background with a color from the palette below. For te
 
 [Live demo](http://cssdeck.com/labs/kbrc3xmv)
 
-#### COLOR PALETTE
+#### Color Palette
 
 Vise is served with a modern looking color palette from [clrs.cc](https://clrs.cc/) that can be attributed to **color** class.
 
 <img src="http://appforgelab.com/vise/color-palette.svg"/>
 
 
-## STYLE
+## Style
 
 Used to style an element, **style** applies a background color and a text color from the style palette below to an element. It accepts the following values: *basic*, *prime*, *aux*, *win*, *pass*, *warn*, *info*, *alert* .
 
@@ -39,7 +39,7 @@ Used to style an element, **style** applies a background color and a text color 
 
 [Live demo](http://cssdeck.com/labs/v3htkdrv)
 
-#### **STYLE PALETTE**
+#### **Style Palette**
 
 A background and text color palette to express main web events. 
 
@@ -47,7 +47,7 @@ A background and text color palette to express main web events.
 
 
 
-## OPACITY
+## Opacity
 
 Used to set an element's opacity, it accepts up to 13 values  [*1-12*, *max*]
 
@@ -62,7 +62,7 @@ Used to set an element's opacity, it accepts up to 13 values  [*1-12*, *max*]
 
 
 
-## RADIUS
+## Radius
 
 Used to set an element's corners radius, it accepts up to 13 values  [*1-12*, *max*]
 
@@ -77,7 +77,7 @@ Used to set an element's corners radius, it accepts up to 13 values  [*1-12*, *m
 
 
 
-## SHADOW & OUTLINE
+## Shadow & Outline
 
 **Shadow** is used to create a light shadow for an element. **Outline** is used to apply a contouring outline on an element. Both **Shadow** & **Outline** don't accept values for the current release.
 
@@ -92,7 +92,7 @@ Used to set an element's corners radius, it accepts up to 13 values  [*1-12*, *m
 
 
 
-## PADDING
+## Padding
 
 Used to generate space around an element's content, **padding** accepts up to *13* distinct values ranging from *1* to *12* and *max*. It also comes with the following variants: **padding-sides**, **padding-ends**.
 
@@ -106,7 +106,7 @@ Used to generate space around an element's content, **padding** accepts up to *1
 
 [Live demo](http://cssdeck.com/labs/jhnsgjre)
 
-#### VARIANTS
+#### Variants
 
 - **padding-sides** appends a space to left and right of element's content.
 
@@ -135,7 +135,7 @@ Used to generate space around an element's content, **padding** accepts up to *1
 
 
 
-## WIDTH & HEIGHT
+## Width & Height
 
 Used to set an element's width/height and similarly to **padding**, they both accept up to *14* values [*1-12*, *min*/*max*] although distinctively, they adopt <u>fixed sizes</u> and <u>common percentages</u>. 
 
@@ -188,7 +188,7 @@ Used to set an element's width/height and similarly to **padding**, they both ac
 
 
 
-## ALIGN
+## Align
 
 Used to align elements within a container, **align** is specific to **row**/**col** grids, although **align-text** is a variant of it that can be used anywhere within Vise's scope for a horizontal alignment of elements.
 
@@ -202,7 +202,7 @@ Used to align elements within a container, **align** is specific to **row**/**co
 
 
 
-## ADAPT
+## Adapt
 
 **Adapt** is a general purpose class used to adapt elements to a distinct screen width to ensure responsive ability. It considers *3* screen sizes: **adapt-small**, **adapt-medium** and **adapt-large**. In the general use case, **adapt** accepts *3* values: *stretch*, *show* and *hide* but when used with **row**/**col** it permits the use of *2* more values: *switch* and [*1-12*, *min*/*max*].
 
@@ -224,7 +224,7 @@ Used to align elements within a container, **align** is specific to **row**/**co
 
 
 
-## SHOW & HIDE
+## Show & Hide
 
 Shows or hides an element.
 
@@ -239,7 +239,7 @@ Shows or hides an element.
 
 
 
-## RESET
+## Reset
 
 Removes any styling applied to an element, **reset** changes elements attributes to Vise's defaults.
 
