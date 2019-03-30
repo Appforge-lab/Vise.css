@@ -1,4 +1,4 @@
-# GRID
+# Grid
 
 Based on flexbox, Vise's grid is designed to build flexible layouts and mobile-first pages. It proposes a row/column structure to horizontally and vertically arrange enclosed elements while offering up to *13* predefined child element sizes. 
 
@@ -23,7 +23,7 @@ Besides the **row**/**col**, a general purpose **box** container is provided to 
 
 
 
-## REGULAR SIZING
+## Regular Sizing
 
 Grid's regular sizing system is an approach proposed to provide a way to size elements enclosed within **row**/**col** proportionally to its container's size. It allows up to *13* distinct sizes [*1-12*, *max*] applied to **row**/**col**/**box**.
 
@@ -41,7 +41,7 @@ Grid's regular sizing system is an approach proposed to provide a way to size el
 
 
 
-## ROW
+## Row
 
 Row is a grid that directs child elements to the x-axis and presents elements horizontally one after another separated with a gap if specified.
 
@@ -57,7 +57,7 @@ Row is a grid that directs child elements to the x-axis and presents elements ho
 
 [Live demo](http://cssdeck.com/labs/ec1j9rle)
 
-#### ESSENTIALS
+#### Essentials
 
 - **Row** should be the first class specified in a <u>div</u> clause with no preceding characters.
 
@@ -101,7 +101,7 @@ Row is a grid that directs child elements to the x-axis and presents elements ho
 
   [Live demo](http://cssdeck.com/labs/wjfi8h64)
 
-#### GAP
+#### Gap
 
 Used to generate space between child elements, **gap** is exclusive to **row**/**col** and can't be used anywhere else. It accepts *14* values  [*1*-*12*, *min/max*].
 
@@ -127,7 +127,7 @@ Used to generate space between child elements, **gap** is exclusive to **row**/*
 
 [Live demo](http://cssdeck.com/labs/azpoxpac)
 
-#### REGULATE
+#### Regulate
 
 Regulate is a class exclusive to **row**/**col** grids which regulates child elements sizes and allows grid's regular sizing system to be used on each child element or proportionally size elements in case of no explicit sizing specification.
 
@@ -152,7 +152,7 @@ Regulate is a class exclusive to **row**/**col** grids which regulates child ele
 - Regulate is **active** by default on rows.
 - The use of the sizing system on child elements automatically enables **regulate** even if it was explicitly disabled.
 
-#### **ADAPT (Switch)**
+#### **Adapt (Switch)**
 
 > Adapt is a general purpose class used to adapt elements to a distinct screen width to ensure responsive facility. In the general use case, adapt accepts three values: stretch, hide and [*1-12, max*], but when used with rows it permits the use of one more value and that is switch.
 
@@ -170,7 +170,7 @@ Regulate is a class exclusive to **row**/**col** grids which regulates child ele
 
 [Live demo](http://cssdeck.com/labs/agmsekaw)
 
-#### ALIGN
+#### Align
 
 Used to align elements within a container, **align** is specific to **row**/**col**. It can align elements horizontally and vertically within a container and accepts the following values : *left*, *center*, *right*, *top*, *middle*, *left*. Additionally it accepts more complex values composed from simple ones: *left-middle*, *center-top*, etc provided to simplify alignment definition.
 
@@ -197,7 +197,7 @@ Used to align elements within a container, **align** is specific to **row**/**co
 
 
 
-## COL
+## Col
 
 Contrary to **row**, **col** is a grid that directs child content to the <u>y-axis</u> and presents elements <u>vertically</u> one <u>under</u> another separated with a gap if specified.
 
@@ -213,7 +213,7 @@ Contrary to **row**, **col** is a grid that directs child content to the <u>y-ax
 
 [Live demo](http://cssdeck.com/labs/bkghxhny)
 
-#### ESSENTIALS
+#### Essentials
 
 **Col** is similar in most ways to row except for arrangement direction, thus it shares much of the behavior associated with rows:
 
@@ -223,7 +223,7 @@ Contrary to **row**, **col** is a grid that directs child content to the <u>y-ax
 - **Col** is intended to work with general purpose classes, **gap**, **regulate** and **align**.
 - **Col** allows *13* possible unique child elements sizes [*1*-*12*, *max*]
 
-#### REGULATE
+#### Regulate
 
 **Regulate** on **col** has the same behavior as on **row** except that it is **inactive** by default and needs to be explicitly specified.
 
@@ -246,7 +246,7 @@ Contrary to **row**, **col** is a grid that directs child content to the <u>y-ax
 
 
 
-## BOX
+## Box
 
 **Box** is a wrapper around elements and is primarily used to isolate child content of **row**/**col** grids, enable the regular sizing system to sizing-incapable elements and regrouping.
 
@@ -264,7 +264,7 @@ Contrary to **row**, **col** is a grid that directs child content to the <u>y-ax
 
 [Live demo](http://cssdeck.com/labs/vuij8oyd)
 
-#### ESSENTIALS
+#### Essentials
 
 As seen with **col**/**row**, **box** also shares the same essentials with grids but have a different behavior with no alternation of display direction of contained elements.
 
@@ -276,7 +276,7 @@ As seen with **col**/**row**, **box** also shares the same essentials with grids
 
 
 
-# VOID
+# Void
 
 Void is a vertical spacer intended to separate elements. It can be used anywhere within Vise's enclosure and inside row/col grids. It accepts up to 14 values  [*1*-*12*, *min/max*].
 
