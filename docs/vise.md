@@ -51,4 +51,4 @@ Vise uses a unique class assignement convention with less hyphens, dashes and a 
 </div>	
 ```
 
-[View on CSSDeck](http://cssdeck.com/labs/fptegaf0)
+[Live demo](http://cssdeck.com/labs/fptegaf0)
