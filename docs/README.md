@@ -3,8 +3,8 @@
 1. [Vise:](https://github.com/Appforge-lab/css-vise/blob/master/doc/naming_convention.md)
   All what is needed to learn about Vise's naming convention.
 
-2. [Naming convention:](https://github.com/Appforge-lab/css-vise/blob/master/docs/naming_convention.md)
-  All what is needed to learn about Vise's naming convention.
+2. [Assignment Convention:](https://github.com/Appforge-lab/css-vise/blob/master/docs/naming_convention.md)
+  Vise classes assignment convention.
   
 3. [Elements:](https://github.com/Appforge-lab/css-vise/blob/master/docs/elements.md)
   Typography, inputs, table, lists, buttons, etc.
