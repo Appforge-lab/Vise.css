@@ -18,7 +18,7 @@ Vise is not the usual framework, it's not based only on making CSS styling a fas
 
   Vise is meant to be minimal while offering the basic features to build a consistent user experience. With around 30kb of size, Vise is one of the most lightweight frameworks. Based on a simple naming convention and a powerful grid system, it forms a reliable starting point for your project.
 
-# ENCAPSULATION
+# Vise with Bootstrap
 
 An essential feature of Vise is the ability to be used alongside other frameworks. In the following example we loaded Bootstrap and Vise to create two separate grid systems.
 
@@ -40,7 +40,7 @@ An essential feature of Vise is the ability to be used alongside other framework
 
 [Live demo](http://cssdeck.com/labs/kmeopejy)
 
-# ASSIGNEMENT CONVENTION
+# Class Assignement Convention
 
 Vise uses a unique class assignement convention with less hyphens, dashes and a style close to the default CSS naming system. The assignement convention is based on the colon character ":" which is introduced exclusively in Vise framework. The latter makes it effortless to distinguish between the opcode and the operand in a class assignment.
 
