@@ -1,7 +1,7 @@
 # INDEX
 
 1. [Vise:](https://github.com/Appforge-lab/css-vise/blob/master/doc/naming_convention.md)
-  An exmaple of the use of Vise with Bootstrap.
+  A simple use of Vise with Bootstrap.
 
 2. [Assignment Convention:](https://github.com/Appforge-lab/css-vise/blob/master/docs/assignement_convention.md)
   Vise classes assignment convention.
