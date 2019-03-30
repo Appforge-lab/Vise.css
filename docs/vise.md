@@ -1,4 +1,4 @@
-# Vise
+# VISE
 
 An essential feature of Vise is the ability to be used alongside other frameworks. In the following example we loaded Bootstrap and Vise to create two separate grid systems.
 
