@@ -133,16 +133,15 @@ Regulate is a class exclusive to **row**/**col** grids which regulates child ele
 
 ```html
 <div class="Vise">
-	<div class="row regulate:off">	
-		<div></div>		
-		<div></div>	
-		<div></div>	
-	</div>
-	<div class="row regulate">	
-		<div></div>		
-		<div></div>	
-		<div></div>	
-	</div>
+    <div class="row regulate:off">	
+        <div></div>		
+        <div></div>	
+        <div></div>	
+    </div>
+    <div class="row regulate">	
+        <div></div>		
+        <div></div>	
+    </div>
 </div>
 ```
 
@@ -161,11 +160,11 @@ Regulate is a class exclusive to **row**/**col** grids which regulates child ele
 
 ```html
 <div class="Vise">
-	<div class="row adapt-medium:switch">
-		<div></div>
-		<div></div>
-		<div></div>
-	</div>	
+    <div class="row adapt-medium:switch">
+        <div></div>
+        <div></div>
+        <div></div>
+    </div>	
 </div>
 ```
 
@@ -177,15 +176,15 @@ Used to align elements within a container, **align** is specific to **row**/**co
 
 ```html
 <div class="Vise">
-	<div class="row align:center align:middle">
-		<div></div>
-	</div>
-	<div class="row align:left align:bottom">
-		<div></div>
-	</div>
-	<div class="row align:top-right">
-		<div></div>
-	</div>
+    <div class="row align:center align:middle">
+        <div></div>
+    </div>
+    <div class="row align:left align:bottom">
+        <div></div>
+    </div>
+    <div class="row align:top-right">
+        <div></div>
+    </div>
 </div>
 ```
 
@@ -204,11 +203,11 @@ Contrary to **row**, **col** is a grid that directs child content to the <u>y-ax
 
 ```html
 <div class="Vise">
-	<div class="col">	
-		<div></div>		
-		<div></div>	
-		<div></div>	
-	</div>	
+    <div class="col">	
+        <div></div>		
+        <div></div>	
+        <div></div>	
+    </div>	
 </div>
 ```
 
@@ -230,16 +229,16 @@ Contrary to **row**, **col** is a grid that directs child content to the <u>y-ax
 
 ```html
 <div class="Vise">
-	<div class="col">	
-		<div></div>		
-		<div></div>	
-		<div></div>	
-	</div>
-	<div class="col regulate">	
-		<div></div>		
-		<div></div>	
-		<div></div>	
-	</div>	
+    <div class="col">	
+        <div></div>		
+        <div></div>	
+        <div></div>	
+    </div>
+    <div class="col regulate">	
+        <div></div>		
+        <div></div>	
+        <div></div>	
+    </div>	
 </div>
 ```
 
@@ -253,13 +252,13 @@ Contrary to **row**, **col** is a grid that directs child content to the <u>y-ax
 
 ```html
 <div class="Vise">
-	<div class="row">
-		<input type="button" class="box:2" value="button">	
-		<div class="box:7">
-			<div></div>
-			<div></div>	
-		</div>	
-		</div>	
+    <div class="row">
+        <input type="button" class="box:2" value="button">	
+        <div class="box:7">
+            <div></div>
+            <div></div>	
+        </div>	
+    </div>	
 </div>
 ```
 
