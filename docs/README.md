@@ -9,5 +9,5 @@
 4. [General classes:](https://github.com/Appforge-lab/css-vise/blob/master/docs/general_classes.md)
   Learn about **fill**, **color**, **style**, **opacity**, **padding**, **width**/**height**, **align**, **adapt**, **reset**, etc.
 
-5. [Grid:](https://github.com/Appforge-lab/css-vise/blob/master/doc/grid.md)
+5. [Grid:](https://github.com/Appforge-lab/css-vise/blob/master/docs/grid.md)
   Learn about **row**/**col**/**box**/**void**
