@@ -1,19 +1,19 @@
 # GRID
 
-Based on flexbox, Forge's grid is designed to build flexible layouts and mobile-first pages. It proposes a row/column structure to horizontally and vertically arrange enclosed elements while offering up to *13* predefined child element sizes. 
+Based on flexbox, Vise's grid is designed to build flexible layouts and mobile-first pages. It proposes a row/column structure to horizontally and vertically arrange enclosed elements while offering up to *13* predefined child element sizes. 
 
-The grid system consists of rows and columns with each of them being an independent grid meant to act as containers for elements we intend to arrange.
+The grid system consists of rows and columns with each of them being an independent grid meant to act containers for elements we intend to arrange.
 
 ```html
-<div class="forge">
-	<div class="row">
+<div class="Vise">
+    <div class="row">
         <div></div>
         <div></div>
-	</div>
-	<div class="col">
+    </div>
+    <div class="col">
         <div></div>
         <div></div>
-	</div>
+    </div>
 </div>
 ```
 
@@ -28,12 +28,12 @@ Besides the **row**/**col**, a general purpose **box** container is provided to 
 Grid's regular sizing system is an approach proposed to provide a way to size elements enclosed within **row**/**col** proportionally to its container's size. It allows up to *13* distinct sizes [*1-12*, *max*] applied to **row**/**col**/**box**.
 
 ```html
-<div class="forge">
-	<div class="row">
+<div class="Vise">
+    <div class="row">
         <div class="row:5"></div>
         <div class="col:7"></div>
         <div class="box:3"></div>
-	</div>	
+    </div>	
 </div>
 ```
 
@@ -46,16 +46,16 @@ Grid's regular sizing system is an approach proposed to provide a way to size el
 Row is a grid that directs child elements to the x-axis and presents elements horizontally one after another separated with a gap if specified.
 
 ```html
-<div class="forge">
-	<div class="row">
-		<div></div>		
-		<div></div>	
-		<div></div>	
-	</div>	
+<div class="Vise">
+    <div class="row">
+        <div></div>		
+        <div></div>	
+        <div></div>	
+    </div>	
 </div>
 ```
 
-[Live demo](http://cssdeck.com/labs/afdhushxi)
+[Live demo](http://cssdeck.com/labs/ec1j9rle)
 
 #### ESSENTIALS
 
@@ -66,8 +66,8 @@ Row is a grid that directs child elements to the x-axis and presents elements ho
 - **Row** has a minimum height of *1.4em*.
 
   ```html
-  <div class="forge">
-  	<div class="row"></div>	
+  <div class="Vise">
+      <div class="row"></div>	
   </div>
   ```
 
@@ -76,12 +76,12 @@ Row is a grid that directs child elements to the x-axis and presents elements ho
 - **Row** is intended to work with general purpose classes, **gap**, **regulate** and **align**.
 
   ```html
-  <div class="forge">
-  	<div class="row padding:2 gap:2 color:silver width:5-10 style-shape:oval">
-  		<div></div>
-  		<div></div>	
-  		<div></div>	
-  	</div>	
+  <div class="Vise">
+      <div class="row padding:2 gap:2 color:silver width:5-10 style-shape:oval">
+          <div></div>
+          <div></div>	
+          <div></div>	
+      </div>	
   </div>
   ```
 
@@ -90,12 +90,12 @@ Row is a grid that directs child elements to the x-axis and presents elements ho
 - **Row** allows *13* possible unique child elements sizes [*1*-*12*, *max*]
 
   ```html
-  <div class="forge">
-  	<div class="row">
-  		<div class="row:5"></div>
-  		<div class="row:8"></div>
-  		<div class="row"></div>
-  	</div>	
+  <div class="Vise">
+      <div class="row">
+          <div class="row:5"></div>
+          <div class="row:8"></div>
+          <div class="row"></div>
+      </div>	
   </div>
   ```
 
@@ -106,21 +106,21 @@ Row is a grid that directs child elements to the x-axis and presents elements ho
 Used to generate space between child elements, **gap** is exclusive to **row**/**col** and can't be used anywhere else. It accepts *14* values  [*1*-*12*, *min/max*].
 
 ```html
-<div class="forge">
+<div class="Vise">
     <div class="row gap">
-      <div></div>
-      <div></div>
-      <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
     </div>
     <div class="row gap:5">
-      <div></div>
-      <div></div>
-      <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
     </div>
     <div class="row gap:max">
-      <div></div>
-      <div></div>
-      <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
     </div>
 </div>
 ```
@@ -132,7 +132,7 @@ Used to generate space between child elements, **gap** is exclusive to **row**/*
 Regulate is a class exclusive to **row**/**col** grids which regulates child elements sizes and allows grid's regular sizing system to be used on each child element or proportionally size elements in case of no explicit sizing specification.
 
 ```html
-<div class="forge">
+<div class="Vise">
 	<div class="row regulate:off">	
 		<div></div>		
 		<div></div>	
@@ -160,7 +160,7 @@ Regulate is a class exclusive to **row**/**col** grids which regulates child ele
 **Switch** is a manner to inform one row to change behavior when a particular screen width is met. It forces a **row** to shift to a **col** and direct elements toward the y-axis while keeping the gap.
 
 ```html
-<div class="forge">
+<div class="Vise">
 	<div class="row adapt-medium:switch">
 		<div></div>
 		<div></div>
@@ -176,7 +176,7 @@ Regulate is a class exclusive to **row**/**col** grids which regulates child ele
 Used to align elements within a container, **align** is specific to **row**/**col**. It can align elements horizontally and vertically within a container and accepts the following values : *left*, *center*, *right*, *top*, *middle*, *left*. Additionally it accepts more complex values composed from simple ones: *left-middle*, *center-top*, etc provided to simplify alignment definition.
 
 ```html
-<div class="forge">
+<div class="Vise">
 	<div class="row align:center align:middle">
 		<div></div>
 	</div>
@@ -203,7 +203,7 @@ Used to align elements within a container, **align** is specific to **row**/**co
 Contrary to **row**, **col** is a grid that directs child content to the <u>y-axis</u> and presents elements <u>vertically</u> one <u>under</u> another separated with a gap if specified.
 
 ```html
-<div class="forge">
+<div class="Vise">
 	<div class="col">	
 		<div></div>		
 		<div></div>	
@@ -229,7 +229,7 @@ Contrary to **row**, **col** is a grid that directs child content to the <u>y-ax
 **Regulate** on **col** has the same behavior as on **row** except that it is **inactive** by default and needs to be explicitly specified.
 
 ```html
-<div class="forge">
+<div class="Vise">
 	<div class="col">	
 		<div></div>		
 		<div></div>	
@@ -252,7 +252,7 @@ Contrary to **row**, **col** is a grid that directs child content to the <u>y-ax
 **Box** is a wrapper around elements and is primarily used to isolate child content of **row**/**col** grids, enable the regular sizing system to sizing-incapable elements and regrouping.
 
 ```html
-<div class="forge">
+<div class="Vise">
 	<div class="row">
 		<input type="button" class="box:2" value="button">	
 		<div class="box:7">
@@ -279,10 +279,10 @@ As seen with **col**/**row**, **box** also shares the same essentials with grids
 
 # VOID
 
-Void is a vertical spacer intended to separate elements. It can be used anywhere within forge's enclosure and inside row/col grids. It accepts up to 14 values  [*1*-*12*, *min/max*].
+Void is a vertical spacer intended to separate elements. It can be used anywhere within Vise's enclosure and inside row/col grids. It accepts up to 14 values  [*1*-*12*, *min/max*].
 
 ```html
-<div class="forge">
+<div class="Vise">
     <div></div>
     <div class="void:5"></div>
     <div></div>
