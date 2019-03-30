@@ -1,4 +1,24 @@
-# VISE
+## Approach
+
+Vise is not the usual framework, it's not based only on making CSS styling a faster process but also forged with some notions in mind:
+
+- **Encaplsulation**
+
+  Vise is self-enclosed, it doesn't get affected by previously loaded frameworks on the same HTML document. Thus it can be used alongside any other framework (Bootstrap, Foundation, Bluma, etc).
+
+  Any element enclosed within Vise's opening and closing tags drops any previous alternation and gets Vise's defaults.
+
+  Any Vise class is only usable within Vise's enclosure and affects only it's child elements, leaving outer elements untouched.
+
+- **Self-reliance**
+
+  Packed with the basic features, Vise is functional out-of-the-box. With styled HTML elements, helper classes and a smart grid system, Vise is a complete framework that can build simple and complex web contents.
+
+- **Minimalism**
+
+  Vise is meant to be minimal while offering the basic features to build a consistent user experience. With around 30kb of size, Vise is one of the most lightweight frameworks. Based on a simple naming convention and a powerful grid system, it forms a reliable starting point for your project.
+
+# ENCAPSULATION
 
 An essential feature of Vise is the ability to be used alongside other frameworks. In the following example we loaded Bootstrap and Vise to create two separate grid systems.
 
