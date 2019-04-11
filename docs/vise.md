@@ -33,7 +33,7 @@ An essential feature of Vise is the ability to be used alongside other framework
     <div class="row">
         <div></div> 
         <div></div>
-        <div ></div>      
+        <div></div>      
     </div>
 </div>
 ```
