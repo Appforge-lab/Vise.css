@@ -23,10 +23,6 @@ There are a couple ways to get Vise:
 
 To get started properly have a look on the [docs](https://github.com/Appforge-lab/css-vise/tree/master/docs).
 
-## Quick Preview
-Here is a quick preview for styled elements. 
-<img src="http://appforgelab.com/vise/preview-5.svg"/>
-
 ## Approach
 
 Vise is not the usual framework, it's not based only on making CSS styling a faster process but also forged with some notions in mind:
