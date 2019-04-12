@@ -23,7 +23,7 @@ There are a couple ways to get Vise:
 
 To get started properly have a look on the [docs](https://github.com/Appforge-lab/css-vise/tree/master/docs).
 
-<img src="http://appforgelab.com/vise/preview-3.svg"/>
+<img src="http://appforgelab.com/vise/preview-4.svg"/>
 
 ## Approach
 
