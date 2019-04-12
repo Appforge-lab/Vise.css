@@ -25,7 +25,7 @@ To get started properly have a look on the [docs](https://github.com/Appforge-la
 
 ## Quick Preview
 Here is a quick preview for styled elements. 
-<img src="http://appforgelab.com/vise/preview-4.svg"/>
+<img src="http://appforgelab.com/vise/preview-5.svg"/>
 
 ## Approach
 
