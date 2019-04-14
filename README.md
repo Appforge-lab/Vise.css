@@ -1,25 +1,43 @@
-<img src="http://appforgelab.com/vise/banner-3.svg"/>
+<img src="http://appforgelab.com/vise/banner-6.svg"/>
 
-A lightweight, minimal and mature vanilla CSS framework built with care. It can to be used as a primary framework or as a secondary one alongside any other framework. Check [this demo page](http://appforgelab.com/vise/) for a quick showcase.
 
-## Why Vise
+
+## Quick Demo
+
+- For a quick showcase check our [demo page](http://appforgelab.com/vise/).
+
+- A preview of a navigation-bar code using Vise.
+
+  ```html
+  <div class="row align:middle">
+      <a href="#home" class="color:white"><h6>Company</h6></a>
+      <div class="row gap:4 align:middle-right adapt-medium:hide">
+          <a href="#home" class="color:white">Home</a>
+          <a href="#features" class="color:white">Features</a>
+          <a href="#pricing" class="color:white">Pricing</a>
+      </div>	
+      <div class="row hide align:right adapt-medium:show">
+          <a><img src="img/hamburger.svg" class="height:24"></a>	
+      </div>	
+  </div>
+  ```
+
+## Why Vise ?
 
 There is dozens of CSS frameworks available but why Vise ?
 
 - You may not need a **heavy** framework to build a great user experience. 
-
 - You may want to use **more than one** framework on the same HTML document.
-
-- You may want a **smarter** and **easier** to learn minimal framework.
-
-- You need a library that is supported by **98%** of web browsers.
+- You may prefer **pure** CSS framework with no Javascript and no third-party libraries.
+- You may need a **smart** grid system.
 
 ## Get Started
 
-There are a couple ways to get Vise:
+There are a couple of ways to get Vise:
+
+- Clone the repository: `git clone https://github.com/Appforge-lab/css-vise.git` 
 
 - [Download CSS-Vise-Beta-0.1 zip](https://github.com/Appforge-lab/css-vise/releases/download/Beta-0.1/css-vise.zip)
-- Clone the repository: `git clone https://github.com/Appforge-lab/css-vise.git` 
 
 To get started properly have a look on the [docs](https://github.com/Appforge-lab/css-vise/tree/master/docs).
 
