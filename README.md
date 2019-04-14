@@ -45,9 +45,9 @@ To get started properly have a look on the [docs](https://github.com/Appforge-la
 
 Vise is forged with the following notions in mind:
 
-- **Encaplsulation**
+- **Encapsulation**
 
-  Vise is self-enclosed, it doesn't get affected by previously loaded frameworks on the same HTML document. Thus it can be used alongside any other framework (Bootstrap, Foundation, Bluma, etc).
+  Vise is self-enclosed, it doesn't get affected by previously loaded frameworks on the same HTML document. Thus it can be used alongside any other framework (Bootstrap, Foundation, Bulma, etc).
 
   Any element enclosed within Vise's opening and closing tags drops any previous alternation and gets Vise's defaults.
 
