@@ -4,7 +4,7 @@
 **Vise:** A lightweight, minimal and mature vanilla CSS framework built with care.
 ## Quick Demo
 
-- For a quick showcase check our [demo page](http://appforgelab.com/vise/).
+- For a quick showcase checkout our [demo page](http://appforgelab.com/vise/).
 
 - A preview of a navigation-bar code using Vise.
 
