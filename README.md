@@ -1,7 +1,7 @@
 <img src="http://appforgelab.com/vise/banner-6.svg"/>
 
 
-
+**Vise:** A lightweight, minimal and mature vanilla CSS framework built with care.
 ## Quick Demo
 
 - For a quick showcase check our [demo page](http://appforgelab.com/vise/).
