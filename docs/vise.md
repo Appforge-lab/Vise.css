@@ -2,9 +2,9 @@
 
 Vise is not the usual framework, it's not based only on making CSS styling a faster process but also forged with some notions in mind:
 
-- **Encaplsulation**
+- **Encapsulation**
 
-  Vise is self-enclosed, it doesn't get affected by previously loaded frameworks on the same HTML document. Thus it can be used alongside any other framework (Bootstrap, Foundation, Bluma, etc).
+  Vise is self-enclosed, it doesn't get affected by previously loaded frameworks on the same HTML document. Thus it can be used alongside any other framework (Bootstrap, Foundation, Bulma, etc).
 
   Any element enclosed within Vise's opening and closing tags drops any previous alternation and gets Vise's defaults.
 
