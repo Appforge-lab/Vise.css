@@ -43,7 +43,7 @@ To get started properly have a look on the [docs](https://github.com/Appforge-la
 
 ## Approach
 
-Vise is not the usual framework, it's not based only on making CSS styling a faster process but also forged with some notions in mind:
+Vise is not the usual framework, it's forged with the following notions in mind:
 
 - **Encaplsulation**
 
