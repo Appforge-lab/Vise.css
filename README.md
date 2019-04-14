@@ -59,7 +59,7 @@ Vise is forged with the following notions in mind:
 
 - **Minimalism**
 
-  Vise is meant to be minimal while offering the basic features to build a consistent user experience. With around 30kb of size, Vise is one of the most lightweight frameworks. Based on a simple naming convention and a powerful grid system, it forms a reliable starting point for your project.
+  Vise is meant to be minimal while offering necessary facilities to build a consistent user experience. With around 30kb of size, Vise is one of the most lightweight frameworks. Based on a simple naming convention and a powerful grid system, it forms a reliable starting point for your project.
 
 ## Samples
 - [Vise with Bootstrap](http://cssdeck.com/labs/kmeopejy)
