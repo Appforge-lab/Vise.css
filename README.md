@@ -1,6 +1,6 @@
 <img src="http://appforgelab.com/vise/banner-3.svg"/>
 
-A lightweight, minimal and mature vanilla CSS framework built with care. Meant to be used as a primary framework or as a secondary one alongside any other framework. Check [this demo page](http://appforgelab.com/vise/) for a quick showcase.
+A lightweight, minimal and mature vanilla CSS framework built with care. It can to be used as a primary framework or as a secondary one alongside any other framework. Check [this demo page](http://appforgelab.com/vise/) for a quick showcase.
 
 ## Why Vise
 
