@@ -108,7 +108,7 @@ Used to generate space around an element's content, **padding** accepts up to *1
 
 #### Variants
 
-- **padding-sides** appends a space to left and right of element's content.
+- **padding-sides** appends a space to the left and right of element's content.
 
   ```html
   <div class="vise">
