@@ -204,7 +204,7 @@ Used to align elements within a container, **align** is specific to **row**/**co
 
 ## Adapt
 
-**Adapt** is a general purpose class used to adapt elements to a distinct screen width to ensure responsive ability. It considers *3* screen sizes: **adapt-small**, **adapt-medium** and **adapt-large**. In the general use case, **adapt** accepts *3* values: *stretch*, *show* and *hide* but when used with **row**/**col** it permits the use of *2* more values: *switch* and [*1-12*, *min*/*max*].
+**Adapt** is a general purpose class used to adapt elements to a distinct screen width to ensure responsive ability. It considers *3* screen sizes: **adapt-small**, **adapt-medium** and **adapt-large**. In the general use case, **adapt** accepts *3* values: *stretch*, *show* and *hide* but when used with **row**/**col** it permits the use of *2* more values: *switch* and [*1-12*, *max*].
 
 ```html
 <div class="vise">
@@ -220,7 +220,7 @@ Used to align elements within a container, **align** is specific to **row**/**co
 
 - **Adapt** with no screen size specification has no effect.
 
-- *Switch* and [*1-12*, *min*/*max*] are covered in **row** and **col** sections. 
+- *Switch* and [*1-12*, *max*] are covered in **row** and **col** sections. 
 
 
 
