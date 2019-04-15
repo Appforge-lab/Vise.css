@@ -137,7 +137,7 @@ Used to generate space around an element's content, **padding** accepts up to *1
 
 ## Width & Height
 
-Used to set an element's width/height and similarly to **padding**, they both accept up to *14* values [*1-12*, *max*] although distinctively, they adopt <u>fixed sizes</u> and <u>common percentages</u>. 
+Used to set an element's width/height and similarly to **padding**, they both accept up to *13* values [*1-12*, *max*] although distinctively, they adopt <u>fixed sizes</u> and <u>common percentages</u>. 
 
 ```html
 <div class="vise">
