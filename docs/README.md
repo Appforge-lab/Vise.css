@@ -10,4 +10,4 @@
   Learn about **fill**, **color**, **style**, **opacity**, **padding**, **width**/**height**, **align**, **adapt**, **reset**, etc.
 
 5. [Grid:](https://github.com/Appforge-lab/css-vise/blob/master/docs/grid.md)
-  Learn about **row**/**col**/**box**/**void**
+  Learn about **row**, **col**, **box**, **void**
