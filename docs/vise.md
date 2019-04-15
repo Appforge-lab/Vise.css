@@ -47,7 +47,7 @@ Vise uses a unique class assignement convention with less hyphens, dashes and a 
 ```html
 <div class="vise">	
     <div class="fill:blue padding:2">
-    <div class="fill:black color-text:orange padding-sides:2">
+    <div class="fill:black color:orange padding-sides:2">
 </div>	
 ```
 
