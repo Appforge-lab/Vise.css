@@ -4,7 +4,7 @@
 
 **Vise:** A lightweight, minimal and mature vanilla CSS framework built with care.
 
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/Appforge-lab/)
+![GitHub file size in bytes](https://img.shields.io/github/size/Appforge-lab/CSS-Vise/vise-min.css.svg)
  [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Appforge-lab/CSS-Vise/blob/master/License)
 
 
