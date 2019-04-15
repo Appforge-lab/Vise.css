@@ -1,4 +1,4 @@
-# Index
+# Table of Contents
 
 1. [Vise:](https://github.com/Appforge-lab/css-vise/blob/master/docs/vise.md)
   A simple use of Vise with Bootstrap and an introduction to Vise's class assignement convention.
