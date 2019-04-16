@@ -38,11 +38,11 @@ To get started properly have a look on the [docs](https://github.com/Appforge-la
 ## Why Vise ?
 
 There is dozens of CSS frameworks available but why Vise ?
-
-- You may not need a **heavy** framework to build a great user experience. 
+.
+- You may not need a **heavy** framework to build a great user experience.
+- You may need a **minimal** but **functional** pure CSS framework.
+- You may want to try a **smarter** and **more reliable** grid system.
 - You may want to use **more than one** framework on the same HTML document.
-- You may prefer **pure** CSS framework with no Javascript and no third-party libraries.
-- You may need a **smart** grid system.
 
 ## Introduction to Vise's Approach
 
