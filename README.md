@@ -29,7 +29,7 @@
       </div>	
   </div>	
   ```
-  <img src="http://appforgelab.com/vise/Vise-Layout.gif"/>
+  <img src="http://appforgelab.com/vise/Vise-Layout-speed.gif"/>
   
   [Live Demo](https://codepen.io/appforgelab/pen/BEmVVv)
 
