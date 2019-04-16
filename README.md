@@ -30,6 +30,7 @@
   </div>	
   ```
   <img src="http://appforgelab.com/vise/Vise-Layout.gif"/>
+  
   [Live Demo](https://codepen.io/appforgelab/pen/BEmVVv)
 
 ## Why Vise ?
