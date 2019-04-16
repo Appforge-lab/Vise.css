@@ -36,7 +36,7 @@
 
   <img src="http://appforgelab.com/vise/Vise-Elements-2.gif"/>
 
-## Install
+## Get Started
 
 There are a couple of ways to get Vise:
 
