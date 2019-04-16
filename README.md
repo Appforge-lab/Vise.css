@@ -15,7 +15,7 @@
 
 - For a quick showcase checkout our [demo page](http://appforgelab.com/vise/).
 
-- A preview of a navigation-bar code using Vise.
+- Here is a preview of a simple layout code in Vise:
 
   ```html
   <div class="vise">
