@@ -46,7 +46,7 @@ There is dozens of CSS frameworks available but why Vise ?
 - You may prefer **pure** CSS framework with no Javascript and no third-party libraries.
 - You may need a **smart** grid system.
 
-## Approach
+## Short Approach
 
 Vise is forged with the following notions in mind:
 
