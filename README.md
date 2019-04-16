@@ -18,17 +18,17 @@
 - A preview of a navigation-bar code using Vise.
 
   ```html
-  <div class="row align:middle">
-      <a href="#home" class="color:white"><h6>Company</h6></a>
-      <div class="row gap:4 align:middle-right adapt-medium:hide">
-          <a href="#home" class="color:white">Home</a>
-          <a href="#features" class="color:white">Features</a>
-          <a href="#pricing" class="color:white">Pricing</a>
+  <div class="vise">
+      <div class="row gap:8 padding:5 adapt-medium:switch">		
+          <div class="box:6"><img class="width:max" src="img/youtube_tutorial.svg"></div>
+          <div class="col:9 gap:2 align:middle">
+            <h5>Lorem ipsum dolor sit amet</h5>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sodales sollicitudin convallis.
+            Vivamus ultricies imperdiet dignissim. Duis vestibulum justo arcu, vitae semper eros porttitor nec.</p>
+            <a href="" class="button width:third adapt-medium:stretch">Action 1</a>
+          </div>	
       </div>	
-      <div class="row hide align:right adapt-medium:show">
-          <a><img src="img/hamburger.svg" class="height:24"></a>	
-      </div>	
-  </div>
+  </div>	
   ```
 
 ## Why Vise ?
