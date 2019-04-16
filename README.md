@@ -17,6 +17,8 @@
 
 - A preview of a simple responsive layout code in Vise:
   
+  [Try it on Codepen](https://codepen.io/appforgelab/pen/BEmVVv)
+  
   ```html
   <div class="vise">
       <div class="row gap:8 padding:5 adapt-medium:switch">		
@@ -30,12 +32,6 @@
   </div>	
   ```
   <img src="http://appforgelab.com/vise/Vise-Layout-speed.gif"/>
-  
-  [Try it on Codepen](https://codepen.io/appforgelab/pen/BEmVVv)
-  
-- A preview of some styled elements:
-
-  <img src="http://appforgelab.com/vise/Vise-Elements-2.gif"/>
 
 ## Get Started
 
@@ -77,7 +73,9 @@ Vise is forged with the following notions in mind:
   Vise is meant to be minimal while offering necessary facilities to build a consistent user experience. With around 30kb of size, Vise is one of the most lightweight frameworks. Based on a simple naming convention and a powerful grid system, it forms a reliable starting point for your project.
 
 ## Examples
-
+  
+- A preview of some styled elements:
+  <img src="http://appforgelab.com/vise/Vise-Elements-2.gif"/>
 - [Vise with Bootstrap](http://cssdeck.com/labs/kmeopejy)
 - [Typography](http://cssdeck.com/labs/8k0gzi7f), [lists](http://cssdeck.com/labs/nozhcahn) and [table](http://cssdeck.com/labs/actgq3my).
 - [Inputs](http://cssdeck.com/labs/9rggntje)
