@@ -36,16 +36,7 @@
 
   <img src="http://appforgelab.com/vise/Vise-Elements-2.gif"/>
 
-## Why Vise ?
-
-There is dozens of CSS frameworks available but why Vise ?
-
-- You may not need a **heavy** framework to build a great user experience. 
-- You may want to use **more than one** framework on the same HTML document.
-- You may prefer **pure** CSS framework with no Javascript and no third-party libraries.
-- You may need a **smart** grid system.
-
-## Get Started
+## Install
 
 There are a couple of ways to get Vise:
 
@@ -54,6 +45,15 @@ There are a couple of ways to get Vise:
 - [Download CSS-Vise-Beta-0.1 zip](https://github.com/Appforge-lab/css-vise/releases/download/Beta-0.1/css-vise.zip)
 
 To get started properly have a look on the [docs](https://github.com/Appforge-lab/css-vise/tree/master/docs).
+
+## Why Vise ?
+
+There is dozens of CSS frameworks available but why Vise ?
+
+- You may not need a **heavy** framework to build a great user experience. 
+- You may want to use **more than one** framework on the same HTML document.
+- You may prefer **pure** CSS framework with no Javascript and no third-party libraries.
+- You may need a **smart** grid system.
 
 ## Approach
 
