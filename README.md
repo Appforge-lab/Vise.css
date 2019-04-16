@@ -33,6 +33,7 @@
   <img src="http://appforgelab.com/vise/Vise-Layout-speed.gif"/>
   
 - A preview of some elements:
+
   <img src="http://appforgelab.com/vise/Vise-Elements.gif"/>
 
 ## Why Vise ?
