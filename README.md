@@ -29,6 +29,7 @@
       </div>	
   </div>	
   ```
+  [Live Demo](https://codepen.io/appforgelab/pen/BEmVVvy)
 
 ## Why Vise ?
 
