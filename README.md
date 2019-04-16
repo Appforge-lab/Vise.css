@@ -17,7 +17,6 @@
 
 - A preview of a simple responsive layout code in Vise:
   
-  [Try it on Codepen](https://codepen.io/appforgelab/pen/BEmVVv)
   ```html
   <div class="vise">
       <div class="row gap:8 padding:5 adapt-medium:switch">		
@@ -31,6 +30,8 @@
   </div>	
   ```
   <img src="http://appforgelab.com/vise/Vise-Layout-speed.gif"/>
+  
+  [Try it on Codepen](https://codepen.io/appforgelab/pen/BEmVVv)
   
 - A preview of some styled elements:
 
