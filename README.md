@@ -74,7 +74,7 @@ Vise is forged with the following notions in mind:
 ## Examples
 In the following you can find some examples of styled Vise elments.
 
-<img src="http://appforgelab.com/vise/Vise-Elements.gif"/>
+<img src="http://appforgelab.com/vise/Vise-Elements-2.gif"/>
   
 - [Vise with Bootstrap](http://cssdeck.com/labs/kmeopejy)
 - [Typography](http://cssdeck.com/labs/8k0gzi7f), [lists](http://cssdeck.com/labs/nozhcahn) and [table](http://cssdeck.com/labs/actgq3my).
