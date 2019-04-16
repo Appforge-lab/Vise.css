@@ -31,10 +31,6 @@
   </div>	
   ```
   <img src="http://appforgelab.com/vise/Vise-Layout-speed.gif"/>
-  
-- A preview of some elements:
-
-  <img src="http://appforgelab.com/vise/Vise-Elements.gif"/>
 
 ## Why Vise ?
 
@@ -75,7 +71,11 @@ Vise is forged with the following notions in mind:
 
   Vise is meant to be minimal while offering necessary facilities to build a consistent user experience. With around 30kb of size, Vise is one of the most lightweight frameworks. Based on a simple naming convention and a powerful grid system, it forms a reliable starting point for your project.
 
-## Samples
+## Examples
+In the following you can find some examples of styled Vise elments.
+
+<img src="http://appforgelab.com/vise/Vise-Elements.gif"/>
+  
 - [Vise with Bootstrap](http://cssdeck.com/labs/kmeopejy)
 - [Typography](http://cssdeck.com/labs/8k0gzi7f), [lists](http://cssdeck.com/labs/nozhcahn) and [table](http://cssdeck.com/labs/actgq3my).
 - [Inputs](http://cssdeck.com/labs/9rggntje)
