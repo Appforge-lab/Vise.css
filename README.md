@@ -17,7 +17,7 @@
 
 - Here is a preview of a simple responsive layout code in Vise:
   
-  [Try it Live on Codepen](https://codepen.io/appforgelab/pen/BEmVVv)
+  [Try it on Codepen](https://codepen.io/appforgelab/pen/BEmVVv)
   ```html
   <div class="vise">
       <div class="row gap:8 padding:5 adapt-medium:switch">		
