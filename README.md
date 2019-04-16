@@ -11,7 +11,7 @@
 
 
 
-## Quick Demo
+## Quick Demos
 
 - For a quick showcase checkout our [demo page](http://appforgelab.com/vise/).
 
