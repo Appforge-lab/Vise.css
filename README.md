@@ -15,7 +15,7 @@
 
 - For a quick showcase checkout our [demo page](http://appforgelab.com/vise/).
 
-- Here is a preview of a simple responsive layout code in Vise:
+- Here is a preview of a simple responsive layout code in Vise: [Live on Codepen](https://codepen.io/appforgelab/pen/BEmVVv)
 
   ```html
   <div class="vise">
@@ -30,8 +30,6 @@
   </div>	
   ```
   <img src="http://appforgelab.com/vise/Vise-Layout-speed.gif"/>
-  
-  [Live Demo](https://codepen.io/appforgelab/pen/BEmVVv)
 
 ## Why Vise ?
 
