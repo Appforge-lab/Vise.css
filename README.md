@@ -48,7 +48,7 @@ There is dozens of CSS frameworks available but why Vise ?
 
 ## Introduction to Vise's Approach
 
-Vise is not the usal CSS framework that is focused on only making styling a faster proccess, but also forged with the following notions in mind:
+Vise is not the usual CSS framework that is focused on only making styling a faster proccess, but also forged with the following notions in mind:
 
 - **Encapsulation**
 
