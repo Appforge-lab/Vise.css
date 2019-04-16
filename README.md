@@ -23,8 +23,7 @@
           <div class="box:6"><img class="width:max" src="img/youtube_tutorial.svg"></div>
           <div class="col:9 gap:2 align:middle">
             <h5>Lorem ipsum dolor sit amet</h5>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sodales sollicitudin convallis.
-            Vivamus ultricies imperdiet dignissim. Duis vestibulum justo arcu, vitae semper eros porttitor nec.</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit...</p>
             <a href="" class="button width:third adapt-medium:stretch">Action 1</a>
           </div>	
       </div>	
