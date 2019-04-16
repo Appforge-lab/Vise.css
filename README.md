@@ -61,6 +61,8 @@ Vise is not the usual CSS framework that is focused on only making styling a fas
 - **Minimalism**
 
   Vise is meant to be minimal while offering necessary facilities to build a consistent user experience.
+  
+[Read more](https://github.com/Appforge-lab/css-vise/blob/master/docs/vise.md)  
 
 ## Examples
   
