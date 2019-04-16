@@ -1,7 +1,5 @@
 <img src="http://appforgelab.com/vise/banner-8.svg"/>
 
-**Vise:** A lightweight, minimal and mature vanilla CSS framework built with care.
-
 ![GitHub tag (latest by date)](https://img.shields.io/github/tag-date/Appforge-lab/css-vise.svg) ![GitHub file size in bytes](https://img.shields.io/github/size/Appforge-lab/CSS-Vise/vise-min.css.svg)
  [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Appforge-lab/CSS-Vise/blob/master/License)
 
