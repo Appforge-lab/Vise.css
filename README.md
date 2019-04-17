@@ -27,8 +27,9 @@
 
 ## Get Started
 
-There are a couple of ways to get Vise:
+There are many ways to get Vise:
 
+- Install with npm: `npm install vise-beta `
 - Clone the repository: `git clone https://github.com/Appforge-lab/css-vise.git` 
 - [Download CSS-Vise-Beta-0.1 zip](https://github.com/Appforge-lab/css-vise/releases/download/Beta-0.1/css-vise.zip)
 - **CDN**
