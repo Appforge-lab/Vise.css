@@ -33,8 +33,8 @@ There are many ways to get Vise:
 - Clone the repository: `git clone https://github.com/Appforge-lab/css-vise.git` 
 - [Download CSS-Vise-Beta-0.1 zip](https://github.com/Appforge-lab/css-vise/releases/download/Beta-0.1/css-vise.zip)
 - **CDN**
-  - vise.css : http://pppforge-ff3a.kxcdn.com/vise-beta-0.1/vise.css
-  - vise-min.css :http://pppforge-ff3a.kxcdn.com/vise-beta-0.1/vise-min.css
+  - `<link rel="stylesheet" type="text/css" href="http://pppforge-ff3a.kxcdn.com/vise-beta-0.1/vise.css">`
+  - `<link rel="stylesheet" type="text/css" href="http://pppforge-ff3a.kxcdn.com/vise-beta-0.1/vise-min.css">`
 
 To get started properly have a look on the [docs](https://github.com/Appforge-lab/css-vise/tree/master/docs).
 
