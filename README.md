@@ -7,7 +7,7 @@
 
 - For a quick showcase checkout our [demo page](http://appforgelab.com/vise/).
 
-- A preview of a simple responsive layout code in Vise:
+- A basic responsive layout code in Vise:
   
   [Try it on Codepen](https://codepen.io/appforgelab/pen/BEmVVv)
   
