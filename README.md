@@ -45,10 +45,10 @@ There are many ways to get Vise:
 
 - **CDN**
   ```
-  http://pppforge-ff3a.kxcdn.com/vise-beta/0.2/vise.css
+  <link rel="stylesheet" href="http://pppforge-ff3a.kxcdn.com/vise-beta/0.2/vise.css">
   ```
   ```
-  http://pppforge-ff3a.kxcdn.com/vise-beta/0.2/vise.min.css
+  <link rel="stylesheet" href="http://pppforge-ff3a.kxcdn.com/vise-beta/0.2/vise.min.css">
   ```  
   
 
