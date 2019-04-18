@@ -44,7 +44,7 @@ There are many ways to get Vise:
   git clone https://github.com/Appforge-lab/css-vise.git
   ```
 
-- **CDN**
+- **Add CDN**
   ```html
   <link rel="stylesheet" href="http://pppforge-ff3a.kxcdn.com/vise-beta/0.2/vise.css">
   ```
