@@ -44,8 +44,14 @@ There are many ways to get Vise:
   ```
 
 - **CDN**
-  - ```http://pppforge-ff3a.kxcdn.com/vise-beta-0.1/vise.css```
-  - ```http://pppforge-ff3a.kxcdn.com/vise-beta-0.1/vise-min.css```
+  ```
+  http://pppforge-ff3a.kxcdn.com/vise-beta-0.1/vise.css
+  ```
+  ```
+  http://pppforge-ff3a.kxcdn.com/vise-beta-0.1/vise-min.css
+  ```  
+  
+
 - [Download CSS-Vise-Beta-0.1 zip](https://github.com/Appforge-lab/css-vise/releases/download/Beta-0.1/css-vise.zip)
   
 To get started properly have a look on the [wiki](https://github.com/Appforge-lab/CSS-Vise/wiki).
