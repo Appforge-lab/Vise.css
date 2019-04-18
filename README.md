@@ -38,7 +38,7 @@ There are many ways to get Vise:
   - `http://pppforge-ff3a.kxcdn.com/vise-beta-0.1/vise-min.css`
 - [Download CSS-Vise-Beta-0.1 zip](https://github.com/Appforge-lab/css-vise/releases/download/Beta-0.1/css-vise.zip)
   
-To get started properly have a look on the [docs](https://github.com/Appforge-lab/css-vise/tree/master/docs).
+To get started properly have a look on the [wiki](https://github.com/Appforge-lab/CSS-Vise/wiki).
 
 ## Why Vise ?
 
@@ -65,7 +65,7 @@ Vise is not the usual CSS framework that is focused on only making styling a fas
 
   Vise is meant to be minimal while offering necessary facilities to build a consistent user experience.
   
-[Read more](https://github.com/Appforge-lab/css-vise/blob/master/docs/vise.md)  
+[Read more](https://github.com/Appforge-lab/CSS-Vise/wiki/vise)  
 
 ## Examples
   
@@ -79,7 +79,7 @@ Vise is not the usual CSS framework that is focused on only making styling a fas
 - [Buttons](http://cssdeck.com/labs/obllgv3i)
 - [Grid](http://cssdeck.com/labs/salyee3a)
 
-For more check the [docs](https://github.com/Appforge-lab/css-vise/tree/master/docs).
+For more check the [wiki](https://github.com/Appforge-lab/CSS-Vise/wiki).
 
 ## License
 
