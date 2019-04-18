@@ -83,6 +83,7 @@ Vise is not the usual CSS framework that is focused on only making styling a fas
 [Read more](https://github.com/Appforge-lab/CSS-Vise/wiki/vise)  
 
 ## Examples
+- To get started properly have a look on the [wiki](https://github.com/Appforge-lab/CSS-Vise/wiki).
   
 - [A preview of some styled elements](https://codepen.io/appforgelab/pen/qwVJPr)
 
