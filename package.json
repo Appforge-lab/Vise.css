@@ -1,0 +1,41 @@
+{
+  "name": "vise-beta",
+  "version": "0.2.0",
+  "description": "Vise is a minimal vanilla CSS framework that is capable of building consistent and reliable user experiences. With around 33kb of size, Vise is a median between light as a feather and heavy as a rock frameworks. It is mainly based on encapsulation, self-reliance and minimalism notions.",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Appforge-lab/CSS-Vise.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "css",
+    "css3",
+    "flexbox",
+    "front-end",
+    "html",
+    "html5",
+    "responsive",
+    "mobile",
+    "mobile-first",
+    "framework",
+    "grid",
+    "css-grid",
+    "stylesheet",
+    "grid-system",
+    "minimal",
+    "lightweight"
+  ],
+  "author": "Appforge",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Appforge-lab/CSS-Vise/issues"
+  },
+  "homepage": "https://github.com/Appforge-lab/CSS-Vise#readme"
+}
