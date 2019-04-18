@@ -51,7 +51,7 @@ There are many ways to get Vise:
   ```  
   
 
-- [Download CSS-Vise-Beta-0.1 zip](https://github.com/Appforge-lab/css-vise/releases/download/Beta-0.1/css-vise.zip)
+- [Download Latest Release](https://github.com/Appforge-lab/CSS-Vise/releases)
   
 To get started properly have a look on the [wiki](https://github.com/Appforge-lab/CSS-Vise/wiki).
 
