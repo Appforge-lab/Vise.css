@@ -48,7 +48,7 @@ There are many ways to get Vise:
   http://pppforge-ff3a.kxcdn.com/vise-beta/0.2/vise.css
   ```
   ```
-  http://pppforge-ff3a.kxcdn.com/vise-beta/0.2/vise-min.css
+  http://pppforge-ff3a.kxcdn.com/vise-beta/0.2/vise.min.css
   ```  
   
 
