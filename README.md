@@ -33,11 +33,11 @@ There are many ways to get Vise:
 
 - Install with npm:
 
-  ``npm install vise-beta ``
+  ```npm install vise-beta```
 
 - Clone the repository: 
 
-  ``git clone https://github.com/Appforge-lab/css-vise.git``
+  ```git clone https://github.com/Appforge-lab/css-vise.git```
 
 - **CDN**
   - `http://pppforge-ff3a.kxcdn.com/vise-beta-0.1/vise.css`
