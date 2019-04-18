@@ -32,7 +32,7 @@ Vise is a minimal vanilla CSS framework capable of building consistent and relia
 
 There are many ways to get Vise:
 
-- **Install with npm**
+- **Install with npm** (Unavailable)
 
   ```
   npm install vise-beta
