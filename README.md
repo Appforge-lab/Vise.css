@@ -52,8 +52,6 @@ There are many ways to get Vise:
   
 
 - [Download Latest Release](https://github.com/Appforge-lab/CSS-Vise/releases)
-  
-To get started properly have a look on the [wiki](https://github.com/Appforge-lab/CSS-Vise/wiki).
 
 ## Why Vise ?
 
