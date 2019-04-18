@@ -25,6 +25,8 @@ Vise is a minimal vanilla CSS framework that is capable of building consistent a
   </div>	
   ```
   <img src="http://appforgelab.com/vise/Vise-Layout-speed.gif"/>
+  
+- More examples in the [wiki](https://github.com/Appforge-lab/CSS-Vise/wiki).
 
 ## Get Vise
 
