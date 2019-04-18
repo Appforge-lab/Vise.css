@@ -8,7 +8,6 @@ Vise is a minimal vanilla CSS framework that is capable of building consistent a
 ## Quick Demos
 
 - For a quick showcase checkout our [demo page](http://appforgelab.com/vise/).
-
 - A basic responsive layout code in Vise:
   
   [Try it on Codepen](https://codepen.io/appforgelab/pen/BEmVVv)
@@ -27,7 +26,7 @@ Vise is a minimal vanilla CSS framework that is capable of building consistent a
   ```
   <img src="http://appforgelab.com/vise/Vise-Layout-speed.gif"/>
 
-## Get Started
+## Get Vise
 
 There are many ways to get Vise:
 
