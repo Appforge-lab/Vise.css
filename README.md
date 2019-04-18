@@ -31,8 +31,14 @@ Vise is a minimal vanilla CSS framework that is capable of building consistent a
 
 There are many ways to get Vise:
 
-- Install with npm: `npm install vise-beta `
-- Clone the repository: `git clone https://github.com/Appforge-lab/css-vise.git` 
+- Install with npm:
+
+  ``npm install vise-beta ``
+
+- Clone the repository: 
+
+  ``git clone https://github.com/Appforge-lab/css-vise.git``
+
 - **CDN**
   - `http://pppforge-ff3a.kxcdn.com/vise-beta-0.1/vise.css`
   - `http://pppforge-ff3a.kxcdn.com/vise-beta-0.1/vise-min.css`
