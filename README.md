@@ -57,12 +57,11 @@ There are many ways to get Vise:
 
 ## Why Vise ?
 
-There is dozens of CSS frameworks available but why Vise ?
+With all frameworks there is what's special about Vise ?
 .
-- You may not need a **heavy** framework to build a great user experience.
-- You may need a **minimal** but **functional** pure CSS framework.
-- You may want to try a **smarter** and **more reliable** grid system.
-- You may want to use **more than one** framework on the same HTML document.
+- Vise is lightweight yet not naked neither overloaded.
+- Vise operates an efficient mobile-first grid system.
+- Vise can be used alongside any other styling structure with no interference issues. 
 
 ## Introduction to Vise's Approach
 
