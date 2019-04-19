@@ -32,7 +32,7 @@
 
 There are many ways to get Vise:
 
-- **Install with npm** (Temporarily unavailable)
+- **Install with npm**
 
   ```
   npm install vise-beta
